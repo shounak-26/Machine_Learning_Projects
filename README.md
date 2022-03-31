@@ -34,5 +34,7 @@ Also, i have created end to end project as by using Machine Learning using Tkint
 1. Dataset: spam.csv
 2. VS code jupyter spam and ham.ipynb (Including Tkinter code so just run)
 
-Thank You Guys!!! Share with this your friend.
+Note: upload the dataset using same name so that it was't cause any problem😉
+
+Thank You Guys!!! Share with this your friend.😀😀😀
    
