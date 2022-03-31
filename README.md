@@ -1,13 +1,14 @@
 # Machine_Learning_Projects
 Hey folks, find amazing projects of Machine Learning with different models and Tkinter.
 
-Project Description:
+************************************** Project Description ******************************
 
 The project is spam and ham mail classifier as we get lots of mail every day and we need to know in which category the mail comes under.
 This project is build by using the dataset which is spam.csv uploaded in the repo. This project uses the MultinomialNB model of Naive Byes classifier. Which is best model for classification of the text. 
 You can check here:http://scikit-learn.org/stable/modules/naive_bayes.html
 Also, i have created end to end project as by using Machine Learning using Tkinter GUI. This GUI consist of the text and button as you place your mail into the text and submit it will give you the notification about the spam na ham message. 
-Steps:
+
+*************************************** Steps ********************************************
 
 1) Importing important and required libraries. 
 2) Importing dataset using pandas
@@ -26,6 +27,12 @@ Steps:
 13) checking accuracy and confusion matrix
 14) Creating a predict function so that whenever we pass any text so it shoul get clean then apply to feature extraction and gives us a prediction
 15) Creating the Tkinter GUI conntains label, Entry data and Buttons.
+
+
+************************************** Uploaded Files **************************************
+
+1. Dataset: spam.csv
+2. VS code jupyter spam and ham.ipynb (Including Tkinter code so just run)
 
 Thank You Guys!!! Share with this your friend.
    
